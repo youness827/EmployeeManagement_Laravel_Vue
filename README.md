@@ -1,7 +1,6 @@
 # EmployeeManagement Laravel_Vuejs
 
-The present project, Realization of a website called "EmployeeManagement" which is developed in Laravel_8 And Vue Js3.
-with simple Database and useful design. 
+The present project, Realization of a EmployeeManagement build by laravel_Vuejs.
 
 ### This app build by :
 
