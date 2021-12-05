@@ -8,7 +8,7 @@ This site allow to present the company CreatixStudio and their services and trai
 
 Front-End:: JAVASCRIPT-VueJs3- HTML5 - CSS3 - BOOTSTRATP
 
-Back-End:: Laravel 8 DATABASE:: UML - MYSQL.
+Back-End:: Laravel- MYSQL.
 
 And other things you can explore it in code source. 
 It's a fully responsive website you can visite the web site to explore it: ##
