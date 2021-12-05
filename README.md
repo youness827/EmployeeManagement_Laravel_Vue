@@ -1,8 +1,7 @@
 # EmployeeManagement Laravel_Vuejs
 
 The present project, Realization of a website called "EmployeeManagement" which is developed in Laravel_8 And Vue Js3.
-This site allow to present the company CreatixStudio and their services and training in the field of drone in multiple languages (French/english). 
-,with simple Database and useful design. 
+with simple Database and useful design. 
 
 ### This app build by :
 
